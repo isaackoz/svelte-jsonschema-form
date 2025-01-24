@@ -1,5 +1,11 @@
 # docs
 
+## 1.6.2
+
+### Patch Changes
+
+- Add information about workaround for <https://github.com/x0k/svelte-jsonschema-form/issues/48> ([`7cfbed8`](https://github.com/x0k/svelte-jsonschema-form/commit/7cfbed8a582d7a8dcc8d15ff9a6c0a1a7ada015e))
+
 ## 1.6.1
 
 ### Patch Changes
