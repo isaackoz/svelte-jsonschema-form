@@ -149,6 +149,10 @@ export interface UiOptions {
    * Default value to use when an input for a field is empty
    */
   emptyValue?: SchemaValue;
+  /**
+   * Allow for arbitrary custom properties
+   */
+  [key: string]: unknown;  
 }
 
 export type UiSchema = UiSchemaIndex & UiSchemaContent;
